@@ -15,7 +15,7 @@
 - CSS
 - JavaScript
 - JQuery
-## Screenshot
+## Screenshots
 ![](img03.png)
 ![](img06.png)
 ![](img07.png)
