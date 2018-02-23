@@ -15,7 +15,6 @@
 - JavaScript
 - JQuery
 ## Screenshot
-![](img03.png)
-![](img04.png)
+![](img07.png)
 
 
