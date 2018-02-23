@@ -5,6 +5,7 @@
 ## Folders and Files
 - CSS folder contains styles.css file for the styles
 - js folder contains jquery script
+- img03, img06, img07 - image files
 - index.html-entry point file
 - README.md
 ## Links
